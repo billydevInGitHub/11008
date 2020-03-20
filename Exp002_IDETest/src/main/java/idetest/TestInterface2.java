@@ -4,6 +4,7 @@ public interface TestInterface2 {
     @Override
     String toString();
 
+
     @Override
-    boolean equals(Object obj);
+    boolean equals(Object    obj);
 }

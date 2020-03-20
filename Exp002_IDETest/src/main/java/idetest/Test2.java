@@ -26,6 +26,8 @@ public class Test2 {
     private static void NewRefactoringMethod() {
 
 
+
+
         try {
             int len = a.length();
             for (int i = 0; i < len; i++) {
