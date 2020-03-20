@@ -1,0 +1,16 @@
+Index: Exp001GitTest/src/main/java/test/test.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Exp001GitTest/src/main/java/test/test.java	(date 1584297489000)
++++ Exp001GitTest/src/main/java/test/test.java	(date 1584299535576)
+@@ -6,5 +6,8 @@
+ 
+         System.out.println("another printsdsaf");
+ 
++
++        System.out.println("this is to test change list");
++        System.out.println("testsstee");
+     }
+ }
