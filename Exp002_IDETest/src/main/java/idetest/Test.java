@@ -24,6 +24,8 @@ public class Test implements TestInterface, TestInterface2, Interface3, interfac
 
     @Override
     public String toString() {
+        
+        
         stringtestnew = "Test`{}";
         return stringtestnew;
     }
@@ -40,6 +42,7 @@ public class Test implements TestInterface, TestInterface2, Interface3, interfac
 
         System.out.println("this is test1");
 
+         System.out.println("edit on git hub");
         System.out.println(test2);
 
         Test2.testRefactoringAAA = String.valueOf(5);
