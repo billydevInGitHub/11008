@@ -8,4 +8,7 @@ public class test2 {
     //master commit 04 after rebase
 
     //local change  commmit 05
+
+    //this is commit 22 from branch02
+    //this is commit 111 from branch01
 }
