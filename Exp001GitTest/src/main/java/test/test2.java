@@ -6,4 +6,6 @@ public class test2 {
     //master commit 03
 
     //master commit 04 after rebase
+
+    //local change  commmit 05
 }
